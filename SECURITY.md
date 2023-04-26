@@ -1,1 +1,1 @@
-<h1 style="text-align:center">LightningSchool project</h1>
+Serious security issues should be sent to aash7919@mjolnirclassroom.dev with "**SECURITY**" in the subject line. If the vulnerability does not need to be kept private, you can use the regular issue tracker. If in doubt, we recommend using the first method.
